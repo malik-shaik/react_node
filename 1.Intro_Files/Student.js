@@ -14,3 +14,5 @@ const student = new Student("Malik");
 student.addClass("React Nodejs");
 student.addClass("Svelte Nodejs");
 // console.log(student.classes);
+
+
